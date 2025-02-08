@@ -1,2 +1,2 @@
 # User-UI
-React application having UI to persist User Information
+React UI component to Input and persist User Information
