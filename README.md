@@ -1,4 +1,4 @@
 # User-UI
-React UI component to Input and persist User Information
+React UI components to take input and persist User Information
 
-Example to disable auto suggestions in browser
+And Example to disable auto suggestions in browser for certain fields
